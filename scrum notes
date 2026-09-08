@@ -1,0 +1,76 @@
+scrum:
+
+framework -> tailored/customizable
+project management approach
+sprint - 28 days - sg2013
+ - 7-14 - sg 2020
+
+7+/-2 => 5-9 members
+
+dsm - daily standup meeting
+- 15min long meeting
+- 8 am - 8:15 am 
+- all stakeholders(anyone and everyone who is part of the project: ie facilitator-scrum master, product owner, the dev team, customer rep)
+
+what asked in daily stand up meeting:
+3 questions
+what was done in previous day?
+what is to be done today?
+what are the impediments(impediments are issues and bottlenecks)?
+
+
+backlogs:(200 percent final exam question)
+- parking lot: any issue which u cant solve in a particular day but has to be completed before the sprint ends
+- sprint backlog: in this , if not able to complete backlog within that sprint, it will conmpleted in consequitive sprint
+- product backlog: product backlog is a backlog which is not mandatory taken before a particular sprint but has to be compkleted before final prod deliverable
+
+Project Velocity:
+how proj flow
+determined using charts
+charts determined using Burndown charts
+
+burndown into 2:
+- sprint burndown: says how many sprints are completed , how many sprints are still pending
+- release burndown says how many story points are remaining 
+
+a board is called as scrum board
+which has 3 diff collumn
+-todo
+-doing 
+-done
+
+     todo    |   doing       |   done-def of done very imp interview question(denote s if a deliverable is complete, after getting completed , and after getting storyy is accepted then such strory point is done)(minmarkf/minviableproduct )
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+            |               |
+            |               |
+            |               |
+
+
+
+
+sprint breakdays:
+- inbetween any 2 sprints
+-they create more and more meetings
+-meetings:
+-- daily stand up meeting:
+--strategic meeting: people define strat for upcoming sprints
+--sprint planning meeting: how team needs to woek on a particular sprint is called this
+--review meeting: after sprint  complete all pitfalls analysis
+--intro spective meeting: what are the mistake mad by a particular individual called as introspective, go with pair peogrammming if scrum xp combo,so senior advice junior
+--retrospective meeting learning from others meeting
+
+
+
+radius of 60km of comms is collacted
+distributed very far
+inhouse onsite?
+
+
+
+multiple scrum master coordinated by csm(chief scrum master): he does sos(scrum of scrum) SAFe(Scaled Agile Framework) NEXUS-collectiom-common among gloaballly distributed swe team
+
+
+customer:
+client
+ deploys customer represntative: emloyed by customer, works with dev team, and gives inputs to orginal customer
+if scrum of scrum: surrogate customer: who had been given full authority as per customer in terms od decision making
